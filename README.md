@@ -1,3 +1,5 @@
+![Uploading dashboard page.png…]()
+
 # Sterling-E-commerce-Dashboard-Project
 Sterling E-commerce is embarking on a strategic initiative to optimize its portfolio and operations to enhance business efficiency and better cater to evolving customer needs. To achieve this goal, there is a crucial need to gain comprehensive insights into customer behaviors and sales patterns. By leveraging analytics on customer behaviors, products, and order data, Sterling aims to uncover actionable insights that will inform strategic decision-making, streamline operational processes, and ultimately elevate the overall customer experience.
 
