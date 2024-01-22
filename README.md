@@ -1,6 +1,7 @@
-![Uploading dashboard page.png…]()
-
 # Sterling-E-commerce-Dashboard-Project
+
+![image](https://github.com/Ariyo1105/Sterling-E-commerce-Dashboard-Project/assets/146656101/38d57d8f-651f-4cad-b50d-df1268d775d9)
+
 Sterling E-commerce is embarking on a strategic initiative to optimize its portfolio and operations to enhance business efficiency and better cater to evolving customer needs. To achieve this goal, there is a crucial need to gain comprehensive insights into customer behaviors and sales patterns. By leveraging analytics on customer behaviors, products, and order data, Sterling aims to uncover actionable insights that will inform strategic decision-making, streamline operational processes, and ultimately elevate the overall customer experience.
 
 # Project Objectives
