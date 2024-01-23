@@ -20,3 +20,8 @@ The successful execution of this project is anticipated to yield several benefit
 # Tools used
 MS Excel, MS Powerpoint
 
+# Dashboards
+![image](https://github.com/Ariyo1105/Sterling-E-commerce-Dashboard-Project/assets/146656101/747812e6-43ed-46f2-a6fa-303611201f78)
+
+![image](https://github.com/Ariyo1105/Sterling-E-commerce-Dashboard-Project/assets/146656101/4e90acf6-0d53-4dd3-8943-98e84eccadf8)
+
